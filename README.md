@@ -47,5 +47,7 @@ Return Mitigation: Improve quality descriptions and size guides for Outerwear to
 **Data Visualization:** Interactive Slicers and Timelines.
 
 **Author:** Opeyemi Akintola
-**Aspiring Data Analyst | Excel | Data Visualization**
+
+**Data Analyst | Excel | Data Visualization**
+
 **Project:** Retail Analysis Project 2026
