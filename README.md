@@ -51,3 +51,7 @@ Return Mitigation: Improve quality descriptions and size guides for Outerwear to
 **Data Analyst | Excel | Data Visualization**
 
 **Project:** Retail Analysis Project 2026
+
+**Contact:** https://www.linkedin.com/in/opeyemi-akintola-370147224/
+
+**Email** akintolaopeyemi257@gmail.com
