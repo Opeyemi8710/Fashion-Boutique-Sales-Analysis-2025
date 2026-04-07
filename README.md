@@ -1,5 +1,7 @@
 # Retail Fashion Boutique Analysis (2025)
 
+<img width="285" height="122" alt="Image" src="https://github.com/user-attachments/assets/3f0635a5-4e02-4ba7-bf50-61380ec7bf79" />
+
 ## 📌 Project Overview
 This project provides a comprehensive data-driven analysis of a fashion boutique’s performance throughout 2025. By analyzing a dataset of 2,176 transactions, the study evaluates the relationships between brand performance, pricing strategies, and customer satisfaction to drive future growth and operational efficiency.
 
